@@ -1,0 +1,25 @@
+{
+    "name": "js-transition",
+    "version": "0.1.0",
+    "author": "xandy <xandy@hackerspace-bamberg.de>",
+    "description": "array and object transitions",
+    "contributors": [
+        {
+            "name": "xandy",
+            "email": "xandy@hackerspace-bamberg.de"
+        }
+    ],
+    "main": "./main.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ydnax/js-transition.git"
+    },
+    "keywords": [
+        "array"
+    ],
+    "dependencies" : {
+    },
+    "engine": {
+        "node": ">=0.6"
+    }
+}
